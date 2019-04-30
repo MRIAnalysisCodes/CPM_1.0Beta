@@ -1,3 +1,4 @@
+% test
 function [result] = CPM(behavior,network)
 
     threshold = input('the threshold\n');
